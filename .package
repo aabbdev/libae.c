@@ -3,6 +3,7 @@ file libae/ae_evport.c
 file libae/ae_kqueue.c
 file libae/ae_select.c
 file libae/ae.c
+file libae/ae.h
 file libae/anet.c
 file libae/anet.h
 file libae/config.h
